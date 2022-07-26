@@ -2,9 +2,9 @@
 
 ## What is this
 
-This is basically a small Java program around the `rsync` command which I use to transfer the file system to contents to an USB-attached disk.
+This is basically a small Java program around the `rsync` command which I use to transfer the home machine file system contents to an USB-attached disk.
 
-My previous bash program was not satisfying, so here we go.
+My previous bash program was not satisfying, so ... here we go.
 
 This program is also an exercise in:
 
